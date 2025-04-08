@@ -5,7 +5,7 @@ It lets you load CSV files, convert them into SQL tables, and ask natural langua
 
 ---
 
-## ✨ Features
+##  Features
 
 - Load CSV files into a local SQLite database
 - Ask questions like “What are the top 5 cities?”
@@ -16,7 +16,7 @@ It lets you load CSV files, convert them into SQL tables, and ask natural langua
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 project/
 ├── app.py                  # Main chat interface
