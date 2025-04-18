@@ -18,7 +18,7 @@ It lets you load CSV files, convert them into SQL tables, and ask natural langua
 
 ##  Project Structure
 
-project/
+```project/
 ├── app.py                  # Main chat interface
 ├── csv_loader.py           # CSV-to-SQLite loader
 ├── db_utils.py             # Schema helpers
@@ -29,7 +29,7 @@ project/
 │   └── sample.csv          # Example CSV
 ├── logs/
 │   └── error_log.txt       # Runtime errors (auto-created)
-
+```
 ---
 
 ## Setup Instructions
